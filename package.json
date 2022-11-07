@@ -1,0 +1,27 @@
+{
+  "name": "moveman",
+  "version": "0.1.0",
+  "description": "Work started: 06.11.2022",
+  "main": "src/moveman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikeedev/moveman.git"
+  },
+  "keywords": [
+    "gamedev",
+    "css",
+    "game",
+    "framework",
+    "game",
+    "engine"
+  ],
+  "author": "nikeedev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikeedev/moveman/issues"
+  },
+  "homepage": "https://github.com/nikeedev/moveman#readme"
+}
