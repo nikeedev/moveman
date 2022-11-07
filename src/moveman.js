@@ -7,6 +7,7 @@ let Moveman =
 
     canvas: document.createElement("div"),
 
+    gameItems: [],
 
     about() 
     {
@@ -34,9 +35,9 @@ let Moveman =
             this.about();
         };
     },
-
+    Game: Game,
     Vector2: Vector2,
-
+    
     update(func)
     {
         const loop = () => 
@@ -51,7 +52,7 @@ let Moveman =
 
         requestAnimationFrame(loop);
     }
-};
+}
 
 
 export { Moveman };
